@@ -1,0 +1,26 @@
+{
+  "client_id": "https://yannlex.github.io/lova-client-metadata/oauth/client-metadata.json",
+  "client_name": "Lova",
+  "client_uri": "https://github.com/YannLex/lova-client-metadata",
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "redirect_uris": [
+    "http://127.0.0.1:41100/callback",
+    "http://127.0.0.1:41101/callback",
+    "http://127.0.0.1:41102/callback",
+    "http://127.0.0.1:41103/callback",
+    "http://127.0.0.1:41104/callback",
+    "http://localhost:41100/callback",
+    "http://localhost:41101/callback",
+    "http://localhost:41102/callback",
+    "http://localhost:41103/callback",
+    "http://localhost:41104/callback"
+  ]
+}
